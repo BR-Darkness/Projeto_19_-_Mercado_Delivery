@@ -27,17 +27,13 @@ Para acessar o sistema utilize o seguinte Login e Senha:
 
 ### Tela de Login:
 
-<p align="center">
-    <img src="Imagens/Tela_Login.png" alt="Imagem da Tela de Login da Aplicação">
-    <figcaption align="center">Tela de Login do Projeto</figcaption>
-</p>
+<p align="center"><img src="Imagens/Tela_Login.png" alt="Imagem da Tela de Login da Aplicação"></p>
+<p align="center">Tela de Login do Projeto</p>
 
 ### Menu Principal:
 
-<p align="center">
-    <img src="Imagens/Tela_Menu.png" alt="Imagem do menu principal da Aplicação">
-    <figcaption align="center">Tela do Menu Principal do Projeto</figcaption>
-</p>
+<p align="center"><img src="Imagens/Tela_Menu.png" alt="Imagem do menu principal da Aplicação"></p>
+<p align="center">Tela do Menu Principal do Projeto</p>
 
 ## To-Do:
 
